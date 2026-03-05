@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ladybug",
+  "base_artist": "Laki",
+  "createdAt": "2026-03-05T08:47:56.987775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ladybug",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/01_Ladybug_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Miraculous - Générique de la série TV \"Tales of Ladybug & Cat Noir\"",
+      "artist": "Lou",
+      "has_synced": true,
+      "path": "select/02_Miraculous_-_Générique_de_la_série_TV__Tales_of_Ladybug_&_Cat_Noir_Lou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lucky Ladybug",
+      "artist": "The Four Seasons",
+      "has_synced": false,
+      "path": "select/03_Lucky_Ladybug_The_Four_Seasons.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lucky Ladybug",
+      "artist": "The 4 Seasons",
+      "has_synced": false,
+      "path": "select/04_Lucky_Ladybug_The_4_Seasons.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ladybug",
+      "artist": "Never Shout Never",
+      "has_synced": true,
+      "path": "select/05_Ladybug_Never_Shout_Never.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ladybug",
+      "artist": "The Altogether",
+      "has_synced": true,
+      "path": "select/06_Ladybug_The_Altogether.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ladybug",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/07_Ladybug_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lucky Ladybug",
+      "artist": "Billy & Lillie",
+      "has_synced": false,
+      "path": "select/08_Lucky_Ladybug_Billy_&_Lillie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LADYBUG",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/09_LADYBUG_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Akeboshi -LADYBUG Live version-",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/10_Akeboshi_-LADYBUG_Live_version-_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ladybug",
+      "artist": "Numcha",
+      "has_synced": true,
+      "path": "select/11_Ladybug_Numcha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Opening Credits of the Series (Miraculous Ladybug VA remix)",
+      "artist": "Lou feat. SQVARE & Jeremy Zag",
+      "has_synced": true,
+      "path": "select/12_Opening_Credits_of_the_Series_(Miraculous_Ladybug_VA_remix)_Lou_feat._SQVARE_&_Jeremy_Zag.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Opening Credits of the Series (Miraculous Ladybug VA remix)",
+      "artist": "Lou",
+      "has_synced": true,
+      "path": "select/13_Opening_Credits_of_the_Series_(Miraculous_Ladybug_VA_remix)_Lou.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stronger Together (From \"Ladybug and Cat Noir: The Movie\") - Rock Version",
+      "artist": "Cristina Vee feat. Drew Ryan Scott",
+      "has_synced": true,
+      "path": "select/14_Stronger_Together_(From__Ladybug_and_Cat_Noir__The_Movie_)_-_Rock_Version_Cristina_Vee_feat._Drew_Ryan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stronger Together (From \"Ladybug and Cat Noir: The Movie\") (feat. Drew Ryan Scott) (Rock Version)",
+      "artist": "Cristina Vee",
+      "has_synced": true,
+      "path": "select/15_Stronger_Together_(From__Ladybug_and_Cat_Noir__The_Movie_)_(feat._Drew_Ryan_Scot_Cristina_Vee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Are Ladybug",
+      "artist": "Lou feat. Mela Lee & Jeremy Zag",
+      "has_synced": true,
+      "path": "select/16_You_Are_Ladybug_Lou_feat._Mela_Lee_&_Jeremy_Zag.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Are Ladybug",
+      "artist": "Lou",
+      "has_synced": true,
+      "path": "select/17_You_Are_Ladybug_Lou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ladybug",
+      "artist": "Laki",
+      "has_synced": false,
+      "path": "select/pl_01_Ladybug_Laki.txt"
+    }
+  ]
+}
